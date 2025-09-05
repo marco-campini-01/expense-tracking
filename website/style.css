@@ -1,0 +1,9 @@
+.card {
+    border: none;
+}
+.expense-card {
+    background-color: #F4F4F6;
+}
+.savings-card {
+    background-color: #E4FCFF;
+}
